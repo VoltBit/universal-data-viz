@@ -1,3 +1,3 @@
 FROM tiangolo/uwsgi-nginx-flask:python3.7
 
-COPY ./app.py /app
+COPY univiz /app
